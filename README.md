@@ -43,4 +43,4 @@ To get started with **DontLook**, follow these steps:
 This project is still a work in progress, with plans to expand its features and refine its approach to real-world ad avoidance.
 
 ### License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
